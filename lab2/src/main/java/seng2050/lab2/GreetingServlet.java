@@ -2,7 +2,6 @@ package seng2050.lab2;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.regex.*;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServlet;
